@@ -32,7 +32,7 @@ breakdowns, regional performance, and year-over-year trends into a single view.
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Overview](outputs/[FILL IN filename].png)
+![Dashboard Overview](outputs/[Screenshot (12).png)
 
 
 
