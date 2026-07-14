@@ -32,8 +32,7 @@ breakdowns, regional performance, and year-over-year trends into a single view.
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Overview](outputs/[Screenshot (12)].png)
-Screenshot (12).png
+<img src="Screenshot (12).png" width="45%" alt="Dashboard Preview">
 
 
 ## ✨ What's on the Dashboard
